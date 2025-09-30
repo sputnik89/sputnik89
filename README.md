@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am interested in computer systems in general, with a particular focus on high-performance data processing systems, especially where networking and storage systems meet. Currently, I am exploring emerging hardware resources and applying them to achieve better performance and scalability for large-scale data processing systems. If you'd like to get in touch with me, please feel free to drop me an email.
+I am an incoming PhD student at the CSE department of the Chinese University of Hong Kong. My interest revolves around distributed systems in general, with a particular focus on distributed storage systems (DBMS in particular) and resource disaggregation. Currently, I am actively exploring how to disaggregate and assemble components across the storage hierarchy (with novel hardware as well) to serve LLM at scale and with robust performance metrics. If you'd like to get in touch with me, feel free to drop me an email.
 
 ### Contact
 Work: helloworld.zheng@mail.utoronto.ca
