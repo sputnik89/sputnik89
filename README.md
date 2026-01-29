@@ -7,5 +7,5 @@ Sputnik89 is an imperfect model, for which reason sputnik89 keeps absorbing mass
 If you'd like to get in touch with sputnik89, please feel free to drop an email.
 
 ### Contact
-Work: helloworld.zheng@mail.utoronto.ca, zhengk30@cs.toronto.edu
-Personal: realkaiwenzheng@outlook.com
+helloworld.zheng@mail.utoronto.ca
+
